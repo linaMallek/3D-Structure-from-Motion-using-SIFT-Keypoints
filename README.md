@@ -13,4 +13,4 @@ This project performs feature detection using SIFT (Scale-Invariant Feature Tran
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/linaMallek/3D-Structure-from-Motion-using-SIFT-Keypoints.git)
